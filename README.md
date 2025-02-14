@@ -5,6 +5,7 @@
 💻 Estudante de **Engenharia de Software** na Unicesumar  
 📚 Aprendendo **C, JavaScript, e desenvolvimento Full Stack**  
 📜 Certificado em *Introduction to Front-End Development* pela Meta (Coursera)  
+📜 Certificado em **Desenvolvimento Front-end** pela CoderHouse  
 🎯 Buscando oportunidades **remotas** na área de tecnologia  
 
 ---
