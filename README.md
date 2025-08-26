@@ -3,6 +3,7 @@
 "A tecnologia nos leva ao futuro, e como diria o Sr. Spock: Vida longa e próspera!" 🖖
 
 💻 Estudante de **Engenharia de Software** na Unicesumar  
+♨  Experiencia **Monitor de Algoritmo e lógica de Programação na Unicesumar**
 📚 Aprendendo **C, JavaScript, e desenvolvimento Full Stack**  
 📜 Certificado em *Introduction to Front-End Development* pela Meta (Coursera)  
 📜 Certificado em **Desenvolvimento Front-end** pela CoderHouse
